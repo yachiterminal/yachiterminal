@@ -12,7 +12,7 @@ const PROVIDER_CONFIG = {
   RETRY_DELAY: 2000,
   DEFAULT_RPC: 'https://api.mainnet-beta.solana.com',
   TOKEN_ADDRESSES: {
-    SOL: 'So11111111111111111111111111111111111111112',
+    SOL: 'FcvohfFS9CM1VLjBbPwjkhgAn73aqwwQ4H5aYNpi8gpi',
     BTC: 'qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL',
     ETH: '7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs'
   }
