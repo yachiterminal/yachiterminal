@@ -5,10 +5,10 @@ Batches: 100%|██████████████████████
 Batches: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 17.86it/s]
 Batches: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 21.80it/s]
 Pinged your deployment. You successfully connected to MongoDB!
-INFO:utils.log_manager:SYSTEM: Starting Zara autonomous agent
-INFO:utils.log_manager:SYSTEM: Starting goal cycle for Zara
-Starting goal cycle for Zara
-INFO:utils.log_manager:GOAL: Evaluating goals for Zara
+INFO:utils.log_manager:SYSTEM: Starting yachi autonomous agent
+INFO:utils.log_manager:SYSTEM: Starting goal cycle for yachi
+Starting goal cycle for yachi
+INFO:utils.log_manager:GOAL: Evaluating goals for yachi
 INFO:utils.log_manager:ERROR: Goal cycle error: 'dict' object has no attribute 'status'
 INFO:utils.log_manager:SYSTEM: Checking for new tasks...
 INFO:utils.log_manager:TASK: Created new task: analyze_trends
